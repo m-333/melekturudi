@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **melekturudi/melekturudi*
 
 - 🔭 I’m currently working on bakend dev.
