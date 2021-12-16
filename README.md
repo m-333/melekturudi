@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**melekturudi/melekturudi*
+### Hi, I Melek  👋
 
 - 🔭 I’m currently working on bakend dev.
 - 🌱 I’m currently learning java
